@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;700&display=swap');
+*{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    color: #B6A57F;
+    padding: 0;
+}
+body{
+    background-color:	#262D49 ;
+}
+.container{
+    width: 1140px;
+    margin: 0 auto;
+}
+@import "libs/fonts.css";
+@import 'libs/bootstrap-reboot.min.css';
+@import 'base/variebls.scss';
+@import 'base/mixin.scss';
+@import 'block/grid';
+@import 'block/promo';
+@import "libs/animate.css";
+@import "block/animate";
+@import "block/tittle";
+@import "block/btn";
+@import "block/sidepanel";
+@import "block/menu";
+@import "block/about";
+@import "block/divider";
+@import "block/resume";
+@import "block/tool";
+@import "block/portfolio";
+@import "block/price";
+@import "block/contacts";
+@import "block/media";
+
+
+
+
